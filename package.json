@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "chromium": "^3.0.3",
+    "config": "^3.3.8",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.2.10",
+    "properties": "^1.2.1",
+    "puppeteer": "^18.2.0",
+    "puppeteer-core": "^18.2.0",
+    "sync-mysql": "^3.0.1"
+  },
+  "devDependencies": {
+    "pending-xhr-puppeteer": "^2.3.3"
+  }
+}
